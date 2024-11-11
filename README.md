@@ -1,6 +1,6 @@
 Projeto Integrador Ciclo 2 - Ferramentas Computacionais
 
-Índice de Cursos - Processamento de Imagens
+Index Cursos - Processamento de Imagens
 
 Este projeto foi desenvolvido para aplicar técnicas de processamento de imagens ao índice de cursos, usando a biblioteca OpenCV. O objetivo é transformar visualmente as imagens para 
 facilitar a identificação de quais cursos foram visualizados. Este README explica o funcionamento do código e como ele processa as imagens por meio de várias etapas.
